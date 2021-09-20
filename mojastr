@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+    <html lang="pl-PL">
+    <html>
+            <head>
+                    <meta charset="utf-8">
+                    <title> Kamil </title>
+                </head>
+                <body>
+<p align="right"> <font color="orange" size="7" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="purple" size="5" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="black" size="4" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="green" size="3" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="pink" size="2" face="Arial"> Kamil </font> </p> <br>
+<p align="right"> <font color="brown" size="1" face="Arial"> Kamil </font> </p> <br>
+<h1> Gałązkiewicz </h1><br>
+<h2> Gałązkiewicz </h2><br>
+<h3> Gałązkiewicz </h3><br>
+<h4> Gałązkiewicz </h4><br>
+<h5> Gałązkiewicz </h5><br>
+<h6> Gałązkiewicz </h6><br>
+<p align="right"> <font color="orange" size="7" face="Courier New"> ;( smutek </font> </p> <br>
+<p align="right"> <font color="red" size="5" face="Verdana"> :) usmiech </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Times New Roman"> :C duzy smutek </font> </p> <br>
+<p align="right"> <font color="green" size="1" face="Verdana"> XD smiech </font> </p> <br>
+<p align="right"> <font color="orange" size="4" face="Verdana"> :O zdziwienie </font> </p> <br>
+
+<p align="left"> <u> 84-168 Warszawa Kremówkowa 21/37 </u> </p> <br>
+<center> <p> <i> <b>  Ulubiony aktor: <font color="brown" size="5" face="Courier New"> Tomasz Karolak  </font> </b> </i> </p> </center><br>
+<center> <p> <font color="red" size="3" face="Verdana">Ulubiony zespol muzyczny: </font> <font color="blue" size="2" face="Times New Roman"> ACDC  </font> </p> </center><br>
+<p align="right"> Data urodzenia: <strike> <font color=„green” size=„1” face=„Arial”> 08 Luty 2000 </font> </strike> </p> <br>
+<center> <p> H <sub> 2 </sub> SO <sub> 4 </sub> </p> <br>
+<p align="left"> x <sup> * </sup> x=x <sup> 2 </sup> </p> <br>
+                </body>
+        </html>
